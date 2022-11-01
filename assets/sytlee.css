@@ -1,0 +1,9 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Poor+Story&display=swap');
+*{
+    font-family: 'poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
